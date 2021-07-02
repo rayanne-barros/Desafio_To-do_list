@@ -1,8 +1,3 @@
-// const bancoDeDados = [
-//     {'tarefa' : 'Estudar JS', 'status' : ''},
-//     {'tarefa': 'Assistir', 'status' : 'checked' }
-// ]
-
 const pegarDoBanco = () => JSON.parse(localStorage.getItem('todo-conteudo')) ?? [];
 
 const enviarProBanco = (bancoDeDados) => localStorage.setItem('todo-conteudo', JSON.stringify(bancoDeDados));
