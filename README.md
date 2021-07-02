@@ -1,15 +1,15 @@
 # TO-DO List
 
-Os usuários serão capazes de:
+Prova de conceito da criação de uma lista de tarefas que permite ao usuário: 
 
 - Adicionar tarefas pendentes 
-- Clicando no input os usuários conseguem conclir a tarefa desejada 
-- Para remover as tarefas basta clicar no botão 'X'
+- Concluir tarefas  
+- Remover tarefas 
 
 
 ## Links
 
-- Site hospedado: (https://rayanne-barros.github.io/Desafio_To-do_list/)
+- Projeto disponível em: (https://rayanne-barros.github.io/Desafio_To-do_list/)
 
 
 ## Construído com:
